@@ -6,7 +6,3 @@ You can visit it here https://futureaxel.github.io/tickets/
 ## Credits
 
 It was made during a full stack course in the Codo a Codo program from Argentina.
-
-## License
-
-GPL Version 1.0
